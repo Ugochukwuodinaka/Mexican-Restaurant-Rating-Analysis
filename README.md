@@ -1,1 +1,1 @@
-# Mexican-Restaurant-Rating-Analysis
+# Mexican Restaurant Rating Analysis
