@@ -44,6 +44,8 @@ This dataset is made up of 6 tables which are the data_dictionary, consumer_pref
 |:------------------------ |:------------------------ |:-------------------------------------- |
 |Consumers                 | Consumer_ID              | Unique identifier for each consumer    |
 |                          | City                     | City where the consumer lives          |
+|                          | State                    | State where the consumer lives         |
+|                          | Country                    | Country where the consumer lives         |
 
 
 City State Country Latitude Longitude Smoker Drink_Level Transportation_Method Marital_Status Children Age Occupation Budget |                  |
