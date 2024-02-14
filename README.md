@@ -139,4 +139,20 @@ From the analysis, i made the following Key findings below:
 - **Consumer Rating By Budget:**
 - In this analysis of consumer ratings by budget categories, notable trends were revealed in consumer satisfaction levels across different spending brackets. Among the identified budget categories - Low, Medium, High, and Not-Stated - consumers with a Medium budget represent the largest group, comprising 91 individuals (65.94% of the sample). Following are consumers with a Low budget (35 individuals, 25.36%), "Not-Stated" budget (7 individuals, 5.07%), and High budget (5 individuals, 3.62%).
 
-The distribution of ratings highlights the importance of catering to diverse budget segments. While Medium budget consumers dominate, the significant presence of Low budget and Not-Stated segments underscores the need to offer options catering to varied spending capacities. Tailoring pricing strategies and offerings to suit different budget categories can optimize customer satisfaction and retention. 
+- The distribution of ratings highlights the importance of catering to diverse budget segments. While Medium budget consumers dominate, the significant presence of Low budget and Not-Stated segments underscores the need to offer options catering to varied spending capacities. Tailoring pricing strategies and offerings to suit different budget categories can optimize customer satisfaction and retention. 
+
+
+- <img src="images/No_of_Consumers_By_Occupation.jpg" width="250">
+- **Number of Consumers By Occupation:**
+- In this analysis of consumer distribution by occupation, valuable insights into the demographic composition of restaurant patrons were provided, enabling tailored marketing strategies and service enhancements to meet the diverse needs of different occupational groups.
+- Among the identified occupations - Students, Employed, Not-Stated, and Unemployed - students emerge as the dominant group, with 113 individuals constituting approximately 81.88% of the total sample. This highlights the significant presence of students within the customer base, indicating their importance as a key demographic for Mexican restaurants. 
+- Following students are individuals categorized as Employed, comprising 16 consumers (11.59% of the sample). While smaller in number compared to students, the employed segment still represents a noteworthy portion of restaurant patrons. Recognizing their presence allows restaurants to develop offerings and experiences that cater to the needs and preferences of working professionals.
+- The Not-Stated category, comprising 7 consumers (5.07%), presents an interesting demographic segment with undisclosed occupation information. Despite their smaller size, this group represents potential customers whose occupational status may vary or is not explicitly disclosed. 
+- Lastly, the Unemployed group consists of 2 consumers, representing a smaller but still relevant portion of the sample (1.45%). A deep understanding of the needs and constraints of this demographic can guide restaurants in offering affordable options and value-driven promotions to accommodate their budgetary considerations.
+
+Overall, the demographic distribution of restaurant patrons by occupation underscores the importance of understanding and catering to the diverse needs and preferences of different occupational groups. Tailoring marketing strategies, menu offerings, and service enhancements to specific segments can optimize customer satisfaction, drive repeat visits, and ultimately contribute to the success of Mexican restaurants. By leveraging insights gained from this analysis, restaurants can create targeted experiences that resonate with their diverse customer base, fostering long-term loyalty and engagement.
+
+
+
+
+
