@@ -41,10 +41,12 @@ This dataset is made up of 6 tables which are the data_dictionary, consumer_pref
 Below is a table that describes all the fields in all the tables
 
 |Table                   | Field                           |Description       
-|:----------------------:|:------------------------------ :|:---------------------------------------:|
-| Consumers              | Consumer_ID City State Country Latitude Longitude Smoker Drink_Level Transportation_Method Marital_Status Children Age Occupation Budget |                  |
+|-----------------------:|------------------------------ :|---------------------------------------:|
+| Consumers              | Consumer_ID                    | Unique identifier for each consumer    |
 
 
+
+City State Country Latitude Longitude Smoker Drink_Level Transportation_Method Marital_Status Children Age Occupation Budget |                  |
 
 Microsoft Table                                            |Tesla Table
 :---------------------------------------------------------:|:------------------------------------------------------:|
