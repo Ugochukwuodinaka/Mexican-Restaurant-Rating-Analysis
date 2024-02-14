@@ -134,3 +134,9 @@ From the analysis, i made the following Key findings below:
 - The Number of Restaurant Cuisines is __23.__
 - The Number of Restaurant Cities is __4.__
 - The Average Age of Consumers is __27.5.__
+
+- <img src="images/Consumer_Rating_By_Budget.jpg" width="250">
+- **Consumer Rating By Budget:**
+- In this analysis of consumer ratings by budget categories, notable trends were revealed in consumer satisfaction levels across different spending brackets. Among the identified budget categories - Low, Medium, High, and Not-Stated - consumers with a Medium budget represent the largest group, comprising 91 individuals (65.94% of the sample). Following are consumers with a Low budget (35 individuals, 25.36%), "Not-Stated" budget (7 individuals, 5.07%), and High budget (5 individuals, 3.62%).
+
+The distribution of ratings highlights the importance of catering to diverse budget segments. While Medium budget consumers dominate, the significant presence of Low budget and Not-Stated segments underscores the need to offer options catering to varied spending capacities. Tailoring pricing strategies and offerings to suit different budget categories can optimize customer satisfaction and retention. 
