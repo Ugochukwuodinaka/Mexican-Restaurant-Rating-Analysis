@@ -129,9 +129,8 @@ Model View                                                                      
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Traded Volume is __465bn.__
-- The Total Average Traded Volume is __28.25M.__
-- Average Traded Open Price is __409.76.__
-- Average Traded Close Price is __409.81.__
-- Average Adjusted Close Price __447.01.__
-- The Total Number of Companies is __10.__
+- The Total Number of Restaurants is __130.__
+- The Total Number of Consumers is __138.__
+- The Number of Restaurant Cuisines is __23.__
+- The Number of Restaurant Cities is __4.__
+- The Average Age of Consumers is __27.5.__
