@@ -35,10 +35,21 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - __Top Restaurant Services Towards Alcohol/Smoking:__ Identification of preferred supplementary services, guiding restaurants in optimizing offerings to cater to consumer demands and preferences.
 - __Restaurant Overall Rating and Cuisines Across Locations:__ Recognition of regional variations in restaurant performance and cuisine preferences, facilitating targeted strategies for different market segments and locations.
 
-### Dataset Overview:
-The data has been collected from different hospitals, 
+### About The Dataset
+This dataset is made up of 6 tables which are the data_dictionary, consumer_preferences, restaurant_cuisines, ratings, restaurants, and the consumers table. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). This is a [link](raw_data) to access the raw data folder, and in this folder are all the 6 tables. In this The data_dictionary table makes a description of all the fields in all the tables for a better understanding of them.
+
+Below is a table that describes all the fields in all the tables
+Table                   | Field                           |Description       
+:----------------------:|:------------------------------ :|:---------------------------------------:|
+ Consumers              | Consumer_ID City State Country Latitude Longitude Smoker Drink_Level Transportation_Method Marital_Status Children Age Occupation Budget |
+![image](https://github.com/Ugochukwuodinaka/Mexican-Restaurant-Rating-Analysis/assets/157266999/4148bdce-7d39-401b-880e-9d04df9fb546)
 
 
 
-
-
+Microsoft Table                                            |Tesla Table
+:---------------------------------------------------------:|:------------------------------------------------------:|
+![](images/Microsoft_table_Power_Query.png)                       |![](images/Tesla_table_Power_Query.png)  
+                  
+10 Companies Table                                                                 |                                
+:---------------------------------------------------------------------------------:|
+![](images/10_Companies_table_Power_Query.png)                                            |                                
