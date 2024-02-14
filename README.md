@@ -165,7 +165,7 @@ From the analysis, i made the following Key findings below:
 - Following Medium-priced restaurants are Low-priced establishments, comprising 45 restaurants and representing a percentage ratio of 34.62%. While slightly fewer in number compared to Medium-priced restaurants, Low-priced establishments cater to consumers seeking budget-friendly dining options. Despite the lower price point, these restaurants can still deliver satisfactory dining experiences, as evidenced by their considerable representation in the market.
 - Lastly, High-priced restaurants rank lowest in terms of quantity, with 25 establishments and a percentage ratio of 19.23%. While fewer in number, High-priced restaurants cater to consumers willing to pay a premium for elevated dining experiences, often associated with higher quality ingredients, upscale ambiance, and exceptional service.
 
-- <img src="images/Reataurant_Rating_By_Price.jpg" width="300">
+- <img src="images/Restaurants_Rating_By_Cuisines.jpg" width="300">
 - **Restaurant Rating By Price:**
 - In this analysis of restaurant ratings by cuisine, valuable insights is provided into consumer preferences and the popularity of different culinary offerings. These preferences empowers restaurants to refine menus and offerings to align with consumer tastes, ultimately enhancing customer satisfaction and driving business success.
 - Mexican Cuisine emerges as the top-ranking cuisine, with 28 restaurant offerings, indicating its widespread popularity among consumers. This underscores the significance of Mexican cuisine in the dining business, showing a strong demand for authentic Mexican flavors and dishes. 
