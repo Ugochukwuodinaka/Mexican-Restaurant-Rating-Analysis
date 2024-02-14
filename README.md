@@ -41,7 +41,7 @@ This dataset is made up of 6 tables which are the data_dictionary, consumer_pref
 Below is a table that describes all the fields in all the tables
 
 |Table                   | Field                          |Description                             |
-|-----------------------:|------------------------------ :|---------------------------------------:|
+|:----------------------:|:----------------------------- :|:--------------------------------------:|`
 | Consumers              | Consumer_ID                    | Unique identifier for each consumer    |
 
 
@@ -54,4 +54,4 @@ Microsoft Table                                            |Tesla Table
                   
 10 Companies Table                                                                 |                                
 :---------------------------------------------------------------------------------:|
-![](images/10_Companies_table_Power_Query.png)                                            |                                
+![](images/10_Companies_table_Power_Query.png)                                            |       `                         
