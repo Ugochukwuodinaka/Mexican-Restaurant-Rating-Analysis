@@ -173,7 +173,7 @@ From the analysis, i made the following Key findings below:
 Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, Seafood, International, and Italian, each with a respectable number of restaurant offerings. These cuisines represent a diverse array of culinary traditions and flavors, catering to a wide range of tastes and preferences among consumers. 
 - Furthermore, the presence of lesser-known cuisines such as Armenian, Bakery, Coffee Shop, Game, Mediterranean, Regional, and Vietnamese highlights the growing diversity and experimentation within the restaurant industry. While these cuisines may have fewer offerings, they present good opportunities for restaurants to carve out unique identities and attract niche customer segments with specialized offerings.
 
-- <img src="images/Top10_Preferred_Cuisines_By_Consumers.jpg" width="300">
+- <img src="images/Top10_Preferred_Cuisines_By_Consumers.jpg" width="250">
 - **Top 10 Preferred Cuisines By Consumers:**
 - In this analysis of the top 10 preferred cuisines by consumers, valuable insights is offered into prevailing culinary trends and the factors influencing consumer preferences in the dining landscape. 
 - Mexican cuisine emerges as the clear favorite among consumers, with 97 individuals expressing a preference for its vibrant flavors and diverse dishes. This underscores the enduring popularity of Mexican cuisine, characterized by its bold spices, fresh ingredients, and rich culinary heritage. The widespread appeal of Mexican cuisine reflects a broader trend towards the appreciation of bold and flavorful foods that offer a sensory experience for diners.
