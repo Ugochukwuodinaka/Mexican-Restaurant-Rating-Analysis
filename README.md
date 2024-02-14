@@ -74,7 +74,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                          |Franchise                |Whether the restaurant is a franchise|
 |                          |Area                     |Whether the restaurant is in an open or closed area|
 |                          |Parking                  |Whether the restaurant offers any sort of parking (none, yes, public, valet)|
-|Restaurant_Cuisines       |Cuisinese                |Types of food the restaurant serves|
+|Restaurant_Cuisines       |Cuisines                 |Types of food the restaurant serves|
 
 ### Tools Used
 1. Power Query Editor
@@ -103,16 +103,32 @@ Below is a table that describes all the fields in all the tables in this dataset
 8. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
 
 ## Data Model Design
-The data required for this analysis are located in various tables. Therefore, data modelling is required. A star Schema is designed with the Company_Lookup table representing the fact table containing all the company names, and to which other dimension tables are modelled or connected to, using the __Company__ column that is common. __Company Lookup__ table has been modelled with:
+The data required for this analysis are located in various tables. Therefore, data modelling is required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
 
-- __Amazon__ table using the __"Company"__
-- __Apple__ table using the __"Company"__
-- __Facebook__ table using the __"Company"__
-- __Google__ table using the __"Company"__
-- __Microsoft__ table using the __"Company"__
-- __Netflix__ table using the __"Company"__
-- __Tesla__ table using the __"Company"__
-- __Uber__ table using the __"Company"__
-- __Walmart__ table using the __"Company"__
-- __Zoom__ table using the __"Company"__
-- __10 Companies__ table using the __"Company"__
+The __ratings__ table has been modelled with:
+
+- __consumers__ table using the __Consumer_ID__
+- __restaurants__ table using the __Restaurant_ID__
+- __consumer_preferences__ table using the __Consumer_ID__
+- __restaurant_cuisines__ table using the __Restuarant_ID__
+
+- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the full Power BI project document [here]https://github.com/Ugochukwuodinaka/Mexican-Restaurant-Rating-Analysis/blob/main/MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
+
+
+Model View                                                                         |                                
+:---------------------------------------------------------------------------------:|
+![](PowerBI_Model_View_Screenshot.png)                                             |        
+
+
+## Visualization in Power BI:
+#### Report
+![](images/Historical_Stock_Price_Of_10_Popular_Companies_Dashboard.jpg)
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- The Total Traded Volume is __465bn.__
+- The Total Average Traded Volume is __28.25M.__
+- Average Traded Open Price is __409.76.__
+- Average Traded Close Price is __409.81.__
+- Average Adjusted Close Price __447.01.__
+- The Total Number of Companies is __10.__
