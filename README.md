@@ -38,10 +38,10 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 ### About The Dataset
 This dataset is made up of 6 tables which are the data_dictionary, consumer_preferences, restaurant_cuisines, ratings, restaurants, and the consumers table. This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). This is a [link](raw_data) to access the raw data folder, and in this folder are all the 6 tables. In this The data_dictionary table makes a description of all the fields in all the tables for a better understanding of them.
 
-Below is a table that describes all the fields in all the tables
+- Below is a table that describes all the fields in all the tables
 
 | Table                    | Field                    | Description                            |            
-|--------------------------|--------------------------|----------------------------------------|`
+| ------------------------ | ------------------------ | -------------------------------------- |`
 |Consumers                 | Consumer_ID              | Unique identifier for each consumer    |
 |                          | City                     | City where the consumer lives          |
 
