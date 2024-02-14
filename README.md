@@ -76,3 +76,43 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                          |Parking                  |Whether the restaurant offers any sort of parking (none, yes, public, valet)|
 |Restaurant_Cuisines       |Cuisinese                |Types of food the restaurant serves|
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Button
+
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. Renamed the 2 columns in the __"consumer_preferences"__ table to the right names: __Consumer_ID__ and __Preferred_Cuisine__ and changed their data types to text.
+2. Changed all data types of the fields in the __"consumers"__ table to the right data types.
+3. Replaced the null cells in __Transportation_Method__, __Marital_Status__, __Budget__, and __Occupation__ fields of the __"consumers"__ table with "Not-Stated".
+4. Replaced the null cells in __Children__ and __Smoker__ fields of the __"consumers"__ table with "Not-Known".
+5. Changed the data types of the fields in the __"ratings"__ table to the right data types.
+6. Added a new field __"Restaurant_Rating"__ to the __"ratings"__ table which extracts the data in the the __Overall_Rating__ Field and transforms them into _"Highly Satisfactory"_, _"Satisfactory"_, and _"Unsatisfactory"_.
+7. Changed the data types of the 2 fields in the __"restaurant_cuisine"__ table to the right data types: _Restaurant_ID (int 64)_, _Cuisine (text)_.
+8. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
+
+## Data Model Design
+The data required for this analysis are located in various tables. Therefore, data modelling is required. A star Schema is designed with the Company_Lookup table representing the fact table containing all the company names, and to which other dimension tables are modelled or connected to, using the __Company__ column that is common. __Company Lookup__ table has been modelled with:
+
+- __Amazon__ table using the __"Company"__
+- __Apple__ table using the __"Company"__
+- __Facebook__ table using the __"Company"__
+- __Google__ table using the __"Company"__
+- __Microsoft__ table using the __"Company"__
+- __Netflix__ table using the __"Company"__
+- __Tesla__ table using the __"Company"__
+- __Uber__ table using the __"Company"__
+- __Walmart__ table using the __"Company"__
+- __Zoom__ table using the __"Company"__
+- __10 Companies__ table using the __"Company"__
