@@ -1,5 +1,5 @@
 # Mexican Restaurant Rating Analysis
-![](Mexican_Restaurant_image.jpg)
+![](images/Mexican_Restaurant_image.jpg)
 
 
 ## Project Overview
@@ -117,12 +117,15 @@ The __ratings__ table has been modelled with:
 
 Model View                                                                         |                                
 :---------------------------------------------------------------------------------:|
-![](PowerBI_Model_View_Screenshot.png)                                             |        
+![](images/PowerBI_Model_View_Screenshot.png)                                             |        
 
 
 ## Visualization in Power BI:
-#### Report
-![](images/Historical_Stock_Price_Of_10_Popular_Companies_Dashboard.jpg)
+#### Report 1
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
+
+#### Report 2
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
