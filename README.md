@@ -9,7 +9,7 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants](#recommendations-on-demand-&-supply-gaps-and-characteristics-an-investor-should-look-out-for-when-investing-in-restaurants)
+- [Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants](#recommendations-on-demand-and-supply-gaps,-and-characteristics-an-investor-should-look-out-for-when-investing-in-restaurants)
 
 
 ## Project Overview
@@ -215,7 +215,7 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 You can view and interact with this dashboard report on Mexican Restuarant Rating Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 
 
-## Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants:
+## Recommendations on Demand and Supply Gaps, and Characteristics an Investor Should Look Out For When Investing in Restaurants:
 __Recommendations on Demand & Supply Gaps:__
 - Address Ethnic Cuisine Diversity: Identify gaps in Mexican cuisine representation and consider offering regional Mexican dishes or innovative twists on traditional favorites to meet consumer demand for authentic and diverse dining experiences.
 - Cater to Budget-Conscious Consumers: Explore opportunities to provide affordable dining options without compromising quality, such as lunch specials, combo meals, or value menus, to attract price-sensitive customers and fill gaps in the market for budget-friendly Mexican cuisine.
