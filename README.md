@@ -206,10 +206,10 @@ You can view and interact with this dashboard report on Mexican Restuarant Ratin
 
 
 ## Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in the Restaurant Business:
-- __Recommendations on Demand & Supply Gaps:__
--Address Ethnic Cuisine Diversity: Identify gaps in Mexican cuisine representation and consider offering regional Mexican dishes or innovative twists on traditional favorites to meet consumer demand for authentic and diverse dining experiences.
+__Recommendations on Demand & Supply Gaps:__
+- Address Ethnic Cuisine Diversity: Identify gaps in Mexican cuisine representation and consider offering regional Mexican dishes or innovative twists on traditional favorites to meet consumer demand for authentic and diverse dining experiences.
 -Cater to Budget-Conscious Consumers: Explore opportunities to provide affordable dining options without compromising quality, such as lunch specials, combo meals, or value menus, to attract price-sensitive customers and fill gaps in the market for budget-friendly Mexican cuisine.
 
-- __Characteristics an Investor Should Look Out For:__
+__Characteristics an Investor Should Look Out For:__
 - Strong Brand Identity: Invest in restaurants with a clear brand identity and unique selling proposition in the Mexican cuisine segment, demonstrating authenticity, quality, and a commitment to customer satisfaction.
 - Operational Efficiency: Seek restaurants with efficient operations, streamlined processes, and experienced management teams capable of delivering consistent quality and service while maximizing profitability.
