@@ -15,10 +15,7 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - Assess restaurant ratings categorized by cuisine types to identify preferences and trends among diners.
 - Determine the top 10 preferred cuisines among consumers to highlight popular culinary choices and inform menu planning strategies.
 - Identify the top 10 restaurants based on ratings to recognize establishments with exceptional performance and quality.
-- Analyze the number of consumers by marital status and pccupation to gain insights into the characteristics and preferences of Mexican restaurant patrons.
-- Study consumer drinking/smoking behavior to understand factors influencing dining decisions and preferences, aiding in targeted marketing and service improvements.
-- Examine the distribution of preferred cuisines among consumers to identify dominant culinary choices and inform menu offerings.
-- Evaluate the top restaurant services related to alcohol/smoking to understand consumer preferences in supplementary offerings and amenities.
+- Analyze the number of consumers by marital status and occupation to gain insights into the characteristics and preferences of Mexican restaurant patrons.
 - Analyze restaurant overall ratings and cuisine preferences across different locations to identify regional variations and market dynamics.
 
 ### Expected Outcomes:
@@ -30,9 +27,6 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - __Top 10 Preferred Cuisines By Consumers:__ Identification of prevailing culinary trends and preferences, informing menu development strategies and promotional campaigns.
 - __Top 10 Restaurants By Rating:__ Recognition of top-performing establishments, providing benchmarks for excellence and inspiring improvement within the industry.
 - __Consumers Bby Marital Status and Occupation:__ Detailed insights into the marital stauts and occupational statistics of restaurant-goers, facilitating targeted marketing initiatives and personalized customer experiences.
-- __Consumer Behavior:__ Enhanced understanding of the factors driving dining decisions, enabling restaurants to tailor services and offerings to meet consumer needs effectively.
-- __Distribution of Preferred Cuisines By Consumers:__ Insight into the popularity of various cuisines among consumers, guiding menu planning and marketing efforts to capitalize on consumer preferences.
-- __Top Restaurant Services Towards Alcohol/Smoking:__ Identification of preferred supplementary services, guiding restaurants in optimizing offerings to cater to consumer demands and preferences.
 - __Restaurant Overall Rating and Cuisines Across Locations:__ Recognition of regional variations in restaurant performance and cuisine preferences, facilitating targeted strategies for different market segments and locations.
 
 ### About The Dataset
@@ -198,3 +192,14 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 - Following single students are single employed consumers, with 13 individuals. This segment likely consists of young professionals who may have more disposable income than students but still value convenience and affordability in their dining choices. They may be willing to spend a bit more on dining experiences that offer quality, convenience, and variety, but still prioritize value for money in their dining decisions.
 - Married students and married employed consumers represent smaller segments, with 6 and 3 individuals respectively. These consumers may exhibit similar preferences to their single counterparts but may also prioritize family-friendly dining options, comfort foods, and restaurants that offer a relaxed and welcoming atmosphere suitable for couples or families.
 - The duo of married unemployed and single unemployed consumers each comprises 1 individual. While smaller in number, these segments may have distinct preferences and behaviors influenced by their employment status and marital status. They may be more budget-conscious and seek out affordable dining options or may be more inclined to cook meals at home to save money.
+
+- <img src="images/Restaurants_Overall_Rating_and_Cuisines_Across_Locations.jpg" width="400">
+- **Restaurants Overall Ratings and Cuisines Acrosss Locations:**
+- The analysis of restaurants, overall ratings, and cuisines across locations provides valuable insights into the dining landscape, highlighting the distribution of dining establishments, their respective ratings, and the cuisines they offer. 
+- Restaurants: The map showcases the geographical distribution of restaurants, providing an overview of where dining establishments are located within a specific region or area. Clusters of restaurants may indicate dining hubs or popular culinary destinations, while areas with fewer restaurants may present opportunities for expansion or investment in new dining concepts.
+- Overall Ratings: Overlaying overall ratings onto the map allows us to identify areas with higher concentrations of highly-rated restaurants. High-rated restaurants may indicate areas known for their culinary excellence or dining experiences that consistently meet or exceed customer expectations. Conversely, areas with lower-rated restaurants may highlight opportunities for improvement or areas where there is room for new dining concepts to enter the market.
+- Cuisines: The map also displays the distribution of cuisines offered by restaurants across locations. This allows us to identify culinary trends and preferences within different areas. For example, clusters of Mexican restaurants may indicate areas with a strong demand for Mexican cuisine, while the presence of diverse cuisines may suggest a more cosmopolitan dining scene.
+
+
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report on Mexican Restuarant Rating Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
