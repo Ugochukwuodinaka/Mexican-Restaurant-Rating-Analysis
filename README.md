@@ -193,7 +193,7 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 - Married students and married employed consumers represent smaller segments, with 6 and 3 individuals respectively. These consumers may exhibit similar preferences to their single counterparts but may also prioritize family-friendly dining options, comfort foods, and restaurants that offer a relaxed and welcoming atmosphere suitable for couples or families.
 - The duo of married unemployed and single unemployed consumers each comprises 1 individual. While smaller in number, these segments may have distinct preferences and behaviors influenced by their employment status and marital status. They may be more budget-conscious and seek out affordable dining options or may be more inclined to cook meals at home to save money.
 
-- <img src="images/Restaurants_Overall_Rating_and_Cuisines_Across_Locations.jpg" width="500">
+- <img src="images/Restaurants_Overall_Rating_and_Cuisines_Across_Locations.jpg" width="600">
 - **Restaurants Overall Ratings and Cuisines Acrosss Locations:**
 - The analysis of restaurants, overall ratings, and cuisines across locations provides valuable insights into the dining landscape, highlighting the distribution of dining establishments, their respective ratings, and the cuisines they offer. 
 - Restaurants: The map showcases the geographical distribution of restaurants, providing an overview of where dining establishments are located within a specific region or area. Clusters of restaurants may indicate dining hubs or popular culinary destinations, while areas with fewer restaurants may present opportunities for expansion or investment in new dining concepts.
