@@ -9,8 +9,6 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants](#recommendations-on-demand-&-supply-gaps-and-characteristics-an-investor-should-look-out-for-when-investing-in-restaurants)
-
 
 ## Project Overview
 ### Introduction:
