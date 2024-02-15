@@ -2,6 +2,16 @@
 ![](images/Mexican_Restaurant_image.jpg)
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants](#rcommendations-on-demand-&-supply-gaps-and-characteristics-an-investor-should-look-out-for-when-investing-in-restaurants)
+
+
 ## Project Overview
 ### Introduction:
 The Mexican Restaurant Rating Analysis project delves into the examination and evaluation of Mexican restaurant. Understanding historical trends and patterns in restaurant ratings can provide valuable insights into the evolution of consumer preferences, industry dynamics, and the factors driving success in the Mexican dining landscape during that period. This analysis illuminates restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
@@ -205,7 +215,7 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 You can view and interact with this dashboard report on Mexican Restuarant Rating Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 
 
-## Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in the Restaurant Business:
+## Recommendations on Demand & Supply Gaps and Characteristics an Investor Should Look Out For When Investing in Restaurants:
 __Recommendations on Demand & Supply Gaps:__
 - Address Ethnic Cuisine Diversity: Identify gaps in Mexican cuisine representation and consider offering regional Mexican dishes or innovative twists on traditional favorites to meet consumer demand for authentic and diverse dining experiences.
 - Cater to Budget-Conscious Consumers: Explore opportunities to provide affordable dining options without compromising quality, such as lunch specials, combo meals, or value menus, to attract price-sensitive customers and fill gaps in the market for budget-friendly Mexican cuisine.
