@@ -15,7 +15,7 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - Assess restaurant ratings categorized by cuisine types to identify preferences and trends among diners.
 - Determine the top 10 preferred cuisines among consumers to highlight popular culinary choices and inform menu planning strategies.
 - Identify the top 10 restaurants based on ratings to recognize establishments with exceptional performance and quality.
-- Analyze consumer demographics to gain insights into the characteristics and preferences of Mexican restaurant patrons.
+- Analyze the number of consumers by marital status and pccupation to gain insights into the characteristics and preferences of Mexican restaurant patrons.
 - Study consumer drinking/smoking behavior to understand factors influencing dining decisions and preferences, aiding in targeted marketing and service improvements.
 - Examine the distribution of preferred cuisines among consumers to identify dominant culinary choices and inform menu offerings.
 - Evaluate the top restaurant services related to alcohol/smoking to understand consumer preferences in supplementary offerings and amenities.
@@ -29,7 +29,7 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - __Restaurant Rating By Cuisine:__ Recognition of popular cuisines and their corresponding ratings, empowering restaurants to refine menus and offerings to align with consumer preferences.
 - __Top 10 Preferred Cuisines By Consumers:__ Identification of prevailing culinary trends and preferences, informing menu development strategies and promotional campaigns.
 - __Top 10 Restaurants By Rating:__ Recognition of top-performing establishments, providing benchmarks for excellence and inspiring improvement within the industry.
-- __Consumer Demography:__ Detailed insights into the demographic makeup of restaurant-goers, facilitating targeted marketing initiatives and personalized customer experiences.
+- __Consumers Bby Marital Status and Occupation:__ Detailed insights into the marital stauts and occupational statistics of restaurant-goers, facilitating targeted marketing initiatives and personalized customer experiences.
 - __Consumer Behavior:__ Enhanced understanding of the factors driving dining decisions, enabling restaurants to tailor services and offerings to meet consumer needs effectively.
 - __Distribution of Preferred Cuisines By Consumers:__ Insight into the popularity of various cuisines among consumers, guiding menu planning and marketing efforts to capitalize on consumer preferences.
 - __Top Restaurant Services Towards Alcohol/Smoking:__ Identification of preferred supplementary services, guiding restaurants in optimizing offerings to cater to consumer demands and preferences.
@@ -189,3 +189,8 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 - Puesto De Tacon follows closely behind with a commendable overall rating of 41, indicating a strong performance in meeting customer expectations and delivering memorable dining experiences. The restaurant's success can be attributed to its focus on quality ingredients, authentic flavors, and attentive service, which have earned it a loyal customer base and positive word-of-mouth recommendations.
 - Cafeteria Y Restaurant El Pacifico, La Cantina Restaurante, and Restaurant La Chalita round out the top five restaurants by overall rating, each with ratings of 33, 32, and 29, respectively. These establishments have distinguished themselves through their dedication to culinary excellence, hospitality, and customer satisfaction, earning them favorable reviews and repeat business from satisfied diners.
 - Restaurante El Cielo Potosino, VIPs, El Rincon De San Francisco, Gorditas Doa Gloria, La Posada Del Virrey, Restaurant Oriental Express, and Restaurante Marisco Sam also merit recognition for their impressive overall ratings, each achieving a rating of 25. These restaurants have demonstrated a commitment to delivering memorable dining experiences characterized by delicious cuisine, attentive service, and inviting atmospheres, contributing to their positive reputation and success in the competitive restaurant industry.
+
+
+- <img src="images/No_of_Consumers_By_Marital_Status_and_Occupation.jpg" width="400">
+- **Number of Consumers By Marital Status and Occupation:**
+- In this analysis
