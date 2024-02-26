@@ -78,6 +78,15 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                          |Parking                  |Whether the restaurant offers any sort of parking (none, yes, public, valet)|
 |Restaurant_Cuisines       |Cuisines                 |Types of food the restaurant serves|
 
+
+### Skills Utilized
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualiziation
+4. Descriptive Analytics
+5. Critical Thinking and Problem Solving
+6. Communication and Reporting
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -221,3 +230,5 @@ __Recommendations on Demand & Supply Gaps:__
 __Characteristics an Investor Should Look Out For:__
 - Strong Brand Identity: Invest in restaurants with a clear brand identity and unique selling proposition in the Mexican cuisine segment, demonstrating authenticity, quality, and a commitment to customer satisfaction.
 - Operational Efficiency: Seek restaurants with efficient operations, streamlined processes, and experienced management teams capable of delivering consistent quality and service while maximizing profitability.
+
+## Thank You For Following Through!
