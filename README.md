@@ -115,11 +115,11 @@ Below is a table that describes all the fields in all the tables in this dataset
 7. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
 8. Made sure all the fields in the different tables have no null values or empty cells except for the __"restaurant"__ table where column __"Zip_Code"__ has some null cells.
 
-Sql Query Scrrenshot                                                                         |                                
+Sql Query Screenshot                                                               |                                
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)    
 
-You can access the full MS Sql Server query [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+You can preview the MS Sql Server query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
 
 
 ## Data Model Design
@@ -132,7 +132,7 @@ The __ratings__ table has been modelled with:
 - __consumer_preferences__ table using the __Consumer_ID__
 - __restaurant_cuisines__ table using the __Restuarant_ID__
 
-- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the full Power BI project document [here](MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
+- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the complete Power BI project document [here](MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
 
 
 Model View                                                                         |                                
