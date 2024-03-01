@@ -118,7 +118,7 @@ Sql Query Scrrenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)    
 
-You can access the full MS Sql Server query ![here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+You can access the full MS Sql Server query [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
 
 
 ## Data Model Design
