@@ -88,11 +88,12 @@ Below is a table that describes all the fields in all the tables in this dataset
 6. Communication and Reporting
 
 ### Tools Used
-1. Power Query Editor
+1. MS Sql Server
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean
+        3. Transform
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -103,15 +104,22 @@ Below is a table that describes all the fields in all the tables in this dataset
         5. Tooltips
         6. Button
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. Renamed the 2 columns in the __"consumer_preferences"__ table to the right names: __Consumer_ID__ and __Preferred_Cuisine__ and changed their data types to text.
-2. Changed all data types of the fields in the __"consumers"__ table to the right data types.
-3. Replaced the null cells in __Transportation_Method__, __Marital_Status__, __Budget__, and __Occupation__ fields of the __"consumers"__ table with "Not-Stated".
-4. Replaced the null cells in __Children__ and __Smoker__ fields of the __"consumers"__ table with "Not-Known".
-5. Changed the data types of the fields in the __"ratings"__ table to the right data types.
-6. Added a new field __"Restaurant_Rating"__ to the __"ratings"__ table which extracts the data in the the __Overall_Rating__ Field and transforms them into _"Highly Satisfactory"_, _"Satisfactory"_, and _"Unsatisfactory"_.
-7. Changed the data types of the 2 fields in the __"restaurant_cuisine"__ table to the right data types: _Restaurant_ID (int 64)_, _Cuisine (text)_.
-8. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
+### Data Cleaning, Transformation and Loading using MS Sql Server:
+1. Changed all data types of the fields in the __"consumers"__ table to the right data types.
+2. Replaced the null cells in __"Transportation_Method"__, __"Marital_Status"__, __"Budget"__, and __"Occupation"__ fields of the __"consumers"__ table with _"Not-Stated"_.
+3. Replaced the null cells in __"Children"__ and __"Smoker"__ fields of the __"consumers"__ table with _"Not-Known"_.
+4. Changed the data types of the fields in the __"ratings"__ table to the right data types.
+5. Added a new field __"Restaurant_Rating"__ to the __"ratings"__ table which extracts the data in the the __"Overall_Rating"__ Field and transforms them into _"Highly Satisfactory"_, _"Satisfactory"_, and _"Unsatisfactory"_.
+6. Changed the data types of the 2 fields in the __"restaurant_cuisines"__ table to the right data types: _"Restaurant_ID (int)"_, _"Cuisine (text)"_.
+7. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
+8. Made sure all the fields in the different tables have no null values or empty cells except for the __"restaurant"__ table where column __"Zip_Code"__ has some null cells.
+
+Sql Query Scrrenshot                                                                         |                                
+:---------------------------------------------------------------------------------:|
+![](images/MS_Sql_Server_Screenshot.png)    
+
+You can access the full MS Sql Server query ![here](Mexican_Restaurant_Rating_Analysis_Project.sql)
+
 
 ## Data Model Design
 The data required for this analysis are located in various tables. Therefore, data modelling is required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
@@ -123,7 +131,7 @@ The __ratings__ table has been modelled with:
 - __consumer_preferences__ table using the __Consumer_ID__
 - __restaurant_cuisines__ table using the __Restuarant_ID__
 
-- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Mexican-Restaurant-Rating-Analysis/blob/main/MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
+- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the full Power BI project document [here](MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
 
 
 Model View                                                                         |                                
