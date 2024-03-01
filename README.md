@@ -115,6 +115,8 @@ Below is a table that describes all the fields in all the tables in this dataset
 7. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
 8. Made sure all the fields in the different tables have no null values or empty cells except for the __"restaurant"__ table where column __"Zip_Code"__ has some null cells.
 
+**MS Sql View**
+
 Sql Query Screenshot                                                               |                                
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png)    
@@ -132,12 +134,13 @@ The __ratings__ table has been modelled with:
 - __consumer_preferences__ table using the __Consumer_ID__
 - __restaurant_cuisines__ table using the __Restuarant_ID__
 
-- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  You can access the complete Power BI project document [here](MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
-
+- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  
 
 Model View                                                                         |                                
 :---------------------------------------------------------------------------------:|
 ![](images/PowerBI_Model_View_Screenshot.png)                                             |        
+
+You can access the complete Power BI project document [here](MEXICAN%20RESTAURANT%20RATING%20ANALYSIS.pbix).
 
 
 ## Visualization in Power BI:
