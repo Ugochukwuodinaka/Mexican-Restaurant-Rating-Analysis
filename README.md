@@ -144,10 +144,10 @@ You can access the complete Power BI project document [here](MEXICAN%20RESTAURAN
 
 
 ## Visualization in Power BI:
-#### Report 1
+#### Report View 1
 ![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
 
-#### Report 2
+#### Report View 2
 ![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
 
 ### Project Analysis:
