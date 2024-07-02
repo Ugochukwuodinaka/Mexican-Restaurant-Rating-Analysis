@@ -128,6 +128,7 @@ Sql Query Screenshot                                                            
 
 You can preview the MS Sql Server query file [here](Mexican_Restaurant_Rating_Analysis_Project.sql)
 <br />
+<br />
 
 ## Data Model Design
 The data required for this analysis are located in various tables. Therefore, data modelling is required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
