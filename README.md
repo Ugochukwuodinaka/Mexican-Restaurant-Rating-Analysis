@@ -95,7 +95,7 @@ Below is a table that describes all the fields in all the tables in this dataset
 1. MS Sql Server
     - Was used to:
         1. Clean
-        3. Transform all datasets for this analysis.
+        3. Transform the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -108,14 +108,13 @@ Below is a table that describes all the fields in all the tables in this dataset
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. Changed all data types of the fields in the __"consumers"__ table to the right data types.
+1. Made sure that all the data types of the table __"consumers"__ in this dataset are of the right data type.
 2. Replaced the null cells in __"Transportation_Method"__, __"Marital_Status"__, __"Budget"__, and __"Occupation"__ fields of the __"consumers"__ table with _"Not-Stated"_.
 3. Replaced the null cells in __"Children"__ and __"Smoker"__ fields of the __"consumers"__ table with _"Not-Known"_.
-4. Changed the data types of the fields in the __"ratings"__ table to the right data types.
+4. Made sure that all the data types of the table __"rating"__ in this dataset are of the right data type.
 5. Added a new field __"Restaurant_Rating"__ to the __"ratings"__ table which extracts the data in the the __"Overall_Rating"__ Field and transforms them into _"Highly Satisfactory"_, _"Satisfactory"_, and _"Unsatisfactory"_.
 6. Changed the data types of the 2 fields in the __"restaurant_cuisines"__ table to the right data types: _"Restaurant_ID (int)"_, _"Cuisine (text)"_.
-7. Changed the data types of the fields in the __"restaurants"__ table to the right data types.
-8. Made sure all the fields in the different tables have no null values or empty cells except for the __"restaurant"__ table where column __"Zip_Code"__ has some null cells.
+7. Made sure that all the data types of the table __"restaurants"__ in this dataset are of the right data type.
 <br />
 
 **MS Sql View**
