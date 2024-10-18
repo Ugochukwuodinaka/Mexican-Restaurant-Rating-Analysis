@@ -148,10 +148,10 @@ You can access the complete Power BI project document [here](MEXICAN%20RESTAURAN
 <br />
 
 ## Visualization in Power BI:
-#### Report View 1
+#### Ratings View
 ![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
 
-#### Report View 2
+#### Locations View
 ![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
 <br />
 <br />
@@ -260,8 +260,8 @@ Other notable cuisines include Brewery, American, Burgers, Japanese, Pizzeria, S
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report on Mexican Restuarant Rating Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI:
+You can view and interact with this dashboardon the Mexican Restuarant Rating Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiYWVhNDM2NjItOTljOC00NjZiLTgyYzUtYWE0NTdhNzU3Yzk1IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
