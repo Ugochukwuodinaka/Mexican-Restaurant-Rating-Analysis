@@ -36,7 +36,7 @@ The primary objectives of the Mexican Restaurant Rating (2012) Analysis project 
 - __Restaurant Rating By Cuisine:__ Recognition of popular cuisines and their corresponding ratings, empowering restaurants to refine menus and offerings to align with consumer preferences.
 - __Top 10 Preferred Cuisines By Consumers:__ Identification of prevailing culinary trends and preferences, informing menu development strategies and promotional campaigns.
 - __Top 10 Restaurants By Rating:__ Recognition of top-performing establishments, providing benchmarks for excellence and inspiring improvement within the industry.
-- __Consumers Bby Marital Status and Occupation:__ Detailed insights into the marital stauts and occupational statistics of restaurant-goers, facilitating targeted marketing initiatives and personalized customer experiences.
+- __Consumers Bby Marital Status and Occupation:__ Detailed insights into the marital status and occupational statistics of restaurant-goers, facilitating targeted marketing initiatives and personalized customer experiences.
 - __Restaurant Overall Rating and Cuisines Across Locations:__ Recognition of regional variations in restaurant performance and cuisine preferences, facilitating targeted strategies for different market segments and locations.
 <br />
 
@@ -107,7 +107,7 @@ Below is a table that describes all the fields in all the tables in this dataset
         6. Button
 <br />
 
-### Data Cleaning, Transformation and Loading using MS Sql Server:
+### Data Cleaning, Transformation and Loading using MS SQL Server:
 1. Made sure that all the data types of the table __"consumers"__ in this dataset are of the right data type.
 2. Replaced the null cells in __"Transportation_Method"__, __"Marital_Status"__, __"Budget"__, and __"Occupation"__ fields of the __"consumers"__ table with _"Not-Stated"_.
 3. Replaced the null cells in __"Children"__ and __"Smoker"__ fields of the __"consumers"__ table with _"Not-Known"_.
